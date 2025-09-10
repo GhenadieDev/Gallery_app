@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+    <string name="house">The House</string>
+    <string name="city">City</string>
+    <string name="mountain">Mountain</string>
+    <string name="flower">Flower</string>
+    <string name="girl">Girl</string>
+    <string name="love">Love</string>
+    <string name="milky_way">Milky Way</string>
+    <string name="mirror">Mirror</string>
+    <string name="the_bridge">The bridge</string>
+    <string name="the_moon">The moon</string>
+    <string name="previous_btn_text">Previous</string>
+    <string name="next_btn_text">Next</string>
+</resources>
