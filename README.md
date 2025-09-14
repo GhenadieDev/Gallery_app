@@ -51,13 +51,5 @@ The main goals of this project are:
 
 ---
 
-## Possible Improvements
-- Add **swipe gestures** (left/right) to navigate like a real gallery.
-- Use **Coil** for efficient image loading and memory optimization.
-- Move the image list to a **ViewModel** for a proper MVVM architecture.
-- Enhance **responsiveness** for tablets and various screen sizes.
-- Add animations for smoother transitions between images.
----
-
 ## License
 This project is for educational purposes and personal use.
