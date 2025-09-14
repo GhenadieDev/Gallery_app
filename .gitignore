@@ -7,6 +7,8 @@
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/caches
+/.kotlin/
+/app/build/
 /build
 /captures
 .DS_Store
